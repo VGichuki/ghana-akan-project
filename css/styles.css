@@ -6,3 +6,9 @@ p{
 body{
     background-color: whitesmoke;
 }
+h1{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    margin: center;
+}
