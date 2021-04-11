@@ -18,5 +18,9 @@ test-box {
     padding: 6px;
     margin: 20px;
     background-color: red;
-    background-image: url(images/kitenge.jpeg);
-  }
+}
+body {
+        background-image: url("images/kitenge.jpeg"), url("images/kitenge.jpeg");
+        background-color: #cccccc;
+      }
+  
