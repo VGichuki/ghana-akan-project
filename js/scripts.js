@@ -13,7 +13,7 @@ function submitStaff(){
     else if(gender=="female"){
         result=femaleNames[day]
     }
-    console.log(result)
+    document.getElementById("result").innerHTML=result
 
 }
 
