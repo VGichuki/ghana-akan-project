@@ -17,4 +17,5 @@ test-box {
     padding: 6px;
     margin: 20px;
     background-color: yellow;
+    background-image: url(images/kitenge.jpeg);
   }
