@@ -8,15 +8,15 @@ body{
     background-color: whitesmoke;
 }
 h1{
-    font-size: larger;
+    font-size: x-large
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: black;
     font-style: italic;
 }
 test-box {
-    border: 2px solid red;
+    border: 2px solid blue;
     padding: 6px;
     margin: 20px;
-    background-color: yellow;
+    background-color: red;
     background-image: url(images/kitenge.jpeg);
   }
