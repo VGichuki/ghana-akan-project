@@ -19,4 +19,10 @@ test-box {
     margin: 20px;
     background-color: red;
 }
+
+img {
+    float: left;
+    border-radius: 80%;
+    margin:0% auto;
+}
   
